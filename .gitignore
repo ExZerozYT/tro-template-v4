@@ -1,0 +1,4 @@
+# Keep local sales-post graphics private & keep the GitHub Pages repo lightweight
+promo-post/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+ไฟล์	ตำแหน่งที่ใช้ในเว็บ
+images/shop-front.jpg	รูปใหญ่ Hero (หน้าร้านศูนย์ตรวจ ตรอ.)
+images/station-wide.jpg	แกลเลอรีรูปใหญ่ — บริเวณช่องตรวจสภาพรถมาตรฐาน
+images/inspection-line.jpg	แกลเลอรี — จุดตรวจไฟหน้าและระบบเบรกดิจิทัล
+images/gas-check.jpg	แกลเลอรี — จุดตรวจถังแก๊ส NGV / LPG
+images/waiting-lounge.jpg	แกลเลอรี — ห้องรับรองลูกค้าติดแอร์เย็นสบาย
